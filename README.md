@@ -9,3 +9,5 @@ Path: https://raw.githubusercontent.com/yaravind/datasets/master/flight/2014_jan
 ##cpu performance data
 
 Original: https://archive.ics.uci.edu/ml/datasets/Computer+Hardware
+
+Path: https://raw.githubusercontent.com/yaravind/datasets/master/computer/cpu-performance-data.csv
